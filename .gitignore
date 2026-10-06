@@ -1,0 +1,7 @@
+data/
+*.Rproj
+.Rhistory
+.RData
+explore.R
+model_test.R
+file985c79dc1d4f.*
